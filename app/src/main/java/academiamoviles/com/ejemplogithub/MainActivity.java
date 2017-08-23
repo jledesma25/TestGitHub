@@ -39,6 +39,8 @@ public class MainActivity extends AppCompatActivity {
 
         //Comentario
 
+        //Otro comentario
+
         mTextMessage = (TextView) findViewById(R.id.message);
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
